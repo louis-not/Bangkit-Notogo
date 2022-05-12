@@ -7,15 +7,15 @@ Bangkit 2022 Capstone Project
 3. [Meet the Team](#Meet-the-Team)
 
 
-# About Product
+## About Product
 . . .
 
-# Products
+## Products
 Link to each of our repository:
 1. [Mobile Development Repository]
 2. [Machine Learning Repository](https://github.com/louis-not/Notogo-ML)
 
 
 
-# Meet the Team
+## Meet the Team
 . . . 
