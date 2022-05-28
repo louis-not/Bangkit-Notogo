@@ -12,9 +12,9 @@ Bangkit 2022 Capstone Project
 
 ## Products
 Link to each of our repository:
-1. [Mobile Development Repository]
+1. [Mobile Development Repository](https://github.com/nabilah1001/Notogo-MD)
 2. [Machine Learning Repository](https://github.com/louis-not/Notogo-ML)
-
+3. [Cloud Computing Repository](https://github.com/dhamthadi12/Notogo-CC)
 
 
 ## Meet the Team
