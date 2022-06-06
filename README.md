@@ -18,4 +18,4 @@ Link to each of our repository:
 
 
 ## Meet the Team
-(https://github.com/louis-not/Bangkit-Notogo/blob/main/img/Meet_the_team.png?raw=true)
+![](https://github.com/louis-not/Bangkit-Notogo/blob/main/img/Meet_the_team.png?)
