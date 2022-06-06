@@ -8,7 +8,7 @@ Bangkit 2022 Capstone Project
 
 
 ## About Product
-. . .
+![]()
 
 ## Products
 Link to each of our repository:
