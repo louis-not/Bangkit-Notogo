@@ -7,8 +7,21 @@ Bangkit 2022 Capstone Project
 3. [Meet the Team](#Meet-the-Team)
 
 
-## About Product
+# About Product
+## Highlighted Features
 ![](https://github.com/louis-not/Bangkit-Notogo/blob/main/img/Product%20Features.png)
+
+## Main Feature
+...
+
+## Architecture 
+...
+
+## Machine Learning
+We have developed a two-tower recommender system using tensorflow_recommenders. with the architecture below: 
+
+## Cloud Computing
+...
 
 ## Products
 Link to each of our repository:
