@@ -8,7 +8,7 @@ Bangkit 2022 Capstone Project
 
 
 ## About Product
-![]()
+![](https://github.com/louis-not/Bangkit-Notogo/blob/main/img/Product%20Features.png)
 
 ## Products
 Link to each of our repository:
@@ -18,4 +18,4 @@ Link to each of our repository:
 
 
 ## Meet the Team
-![](https://github.com/louis-not/Bangkit-Notogo/blob/main/img/Meet_the_team.png?)
+![](https://github.com/louis-not/Bangkit-Notogo/blob/main/img/Meet_the_team.png)
